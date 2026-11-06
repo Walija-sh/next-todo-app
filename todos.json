@@ -1,0 +1,22 @@
+[
+  {
+    "id": 2,
+    "text": "Build a todo app",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "text": "Deploy an app",
+    "completed": true
+  },
+  {
+    "id": "8710a2dc-efe3-41d4-a68e-f2dad867e4c2",
+    "text": "Read Book",
+    "completed": false
+  },
+  {
+    "id": "e83dab2d-e7a5-4ec6-9922-7f6f4abad5ec",
+    "text": "ADDING new todo update 2",
+    "completed": false
+  }
+]
